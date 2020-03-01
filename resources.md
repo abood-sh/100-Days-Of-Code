@@ -3,8 +3,8 @@
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
 ### Articles
-1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
-2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
+1. [Join the #100DaysOfCode](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/) freeCodeCamp.
+2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://www.freecodecamp.org/news/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b/) freeCodeCamp.
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
@@ -12,14 +12,14 @@
 # Additional Resources on the #100DaysOfCode
 
 ## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+1. [Gentle Explanation of "this" keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 
 ## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+1. [CodeNewbie](https://www.codenewbie.org/)
 
 ## Books (both coding and non-coding)
 
