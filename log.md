@@ -8,7 +8,7 @@
 
 **Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
 
-### Day 002: March 02, 2020 SUN
+### Day 002: March 02, 2020 MON
 
 **Today's Progress:** Implementing the express-ejs-layouts package 👍🏼, and focus on the front-end views today. Sort out the landing page's layout using the CSS grid. Research on RESTful API and MVC architecture, see if I can implementing it in this small project.  
 
