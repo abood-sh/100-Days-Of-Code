@@ -15,3 +15,11 @@
 **Thoughts:** CSS grid is way more easy to use than flexbox?! Took me awhile try to use flex, but somethings just not right so eventually, I just switch to use grid...!
 
 **Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+
+### Day 003: March 03, 2020 TUE
+
+**Today's Progress:** Focus on the front-end views again. Sort out the landing page's layout and make it RWD. Research on CSS variables and @media function.  
+
+**Thoughts:** 🤔 Mostly staring at the css code try to figure out how to make it responsive and align contents...!
+
+**Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
