@@ -23,3 +23,11 @@
 **Thoughts:** 🤔 Mostly staring at the css code try to figure out how to make it responsive and align contents...!
 
 **Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+
+### Day 004: March 04, 2020 WED
+
+**Today's Progress:** Found a npm package called [popular-movie-quotes](https://www.npmjs.com/package/popular-movie-quotes) which I use it to generate random movie quote on my landing page. 😜 And then I work on how to get the Date in js and show it on the page in the format I want. Also, did a bit CSS to play with the text input field!
+
+**Thoughts:** It's fun to search for the npm that can help me do some stuff I want!
+
+**Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
