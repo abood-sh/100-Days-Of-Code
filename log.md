@@ -31,3 +31,11 @@
 **Thoughts:** It's fun to search for the npm that can help me do some stuff I want!
 
 **Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+
+### Day 005: March 05, 2020 THU
+
+**Today's Progress:** Got sidetrack today, found a new coding practice website "Hackerrank" and got hook on solving challenges...!🤪Solved 12 challenges!! It was really fun! Like playing games. Haha~!
+
+**Thoughts:** I really enjoy solving problems...!😅
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
