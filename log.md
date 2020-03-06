@@ -2,7 +2,7 @@
 
 ### Day 001: March 01, 2020 SUN
 
-**Today's Progress:** Started a new project with node.js and set up the project folder structure. Sorted out the DB connection and HTML skeleton. 
+**Today's Progress:** Started a new project with node.js and set up the project folder structure. Sorted out the DB connection and HTML skeleton.
 
 **Thoughts:** Need to figure out how the NoSQL's documents relation works?!
 
@@ -34,9 +34,17 @@
 
 ### Day 005: March 05, 2020 THU
 
-**Today's Progress:** Got sidetrack today, found a new coding practice website "Hackerrank" and got hook on solving challenges...!🤪Solved 12 challenges!! It was really fun! Like playing games. Haha~! 
+**Today's Progress:** Got sidetrack today, found a new coding practice website "Hackerrank" and got hook on solving challenges...!🤪Solved 12 challenges!! It was really fun! Like playing games. Haha~!
 Set up the list field with a delete button.
 
 **Thoughts:** I really enjoy solving problems...!😅
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+
+### Day 006: March 06, 2020 FRI
+
+**Today's Progress:** Problems solved on Hackerrank: 2 (Repeated String, Jumping on the Clouds) |
+
+**Thoughts:**
+
+**Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2) | [Hackerrank](https://www.hackerrank.com/jacoblindev)
