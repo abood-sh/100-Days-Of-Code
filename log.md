@@ -1,4 +1,6 @@
-# #100DaysOfCode - Jacob's Log
+# #100DaysOfCode
+
+## My First Round's Log: 🤞🏼
 
 ### Day 001: March 01, 2020 SUN
 
@@ -43,8 +45,13 @@ Set up the list field with a delete button.
 
 ### Day 006: March 06, 2020 FRI
 
-**Today's Progress:** Problems solved on Hackerrank: 2 (Repeated String, Jumping on the Clouds) |
+**Today's Progress:** Problems solved on Hackerrank: 6 (Kangaroo,
+Apple and Orange,
+Grading Students,
+Matching Specific String,
+Repeated String,
+Jumping on the Clouds). The Kangaroo one took me quite awhile to solve...about 1 hour?! 🤯
 
-**Thoughts:**
+**Thoughts:** I really enjoy solving problems...!😅But might need to refresh my math concepts...! 🤣
 
-**Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2) | [Hackerrank](https://www.hackerrank.com/jacoblindev)
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
