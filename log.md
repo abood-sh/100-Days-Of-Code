@@ -44,6 +44,21 @@ Found a npm package called [popular-movie-quotes](https://www.npmjs.com/package/
 Got sidetrack today, found a new coding practice website "Hackerrank" and got hook on solving challenges...!🤪Solved 12 challenges!! It was really fun! Like playing games. Haha~!
 Set up the list field with a delete button.
 
+Problems solved on Hackerrank: 12
+
+- Counting Valleys
+- Sock Merchant
+- Time Conversion
+- Birthday Cake Candles
+- Mini-Max Sum
+- Staircase
+- Plus Minus
+- Diagonal Difference
+- A Very Big Sum
+- Compare the Triplets
+- Simple Array Sum
+- Solve Me First
+
 **Thoughts:** I really enjoy solving problems...!😅
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
@@ -51,14 +66,35 @@ Set up the list field with a delete button.
 ### Day 006: March 06, 2020 FRI
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 6 (Kangaroo,
-Apple and Orange,
-Grading Students,
-Matching Specific String,
-Repeated String,
-Jumping on the Clouds). The Kangaroo one took me quite awhile to solve...about 1 hour?! 🤯  
+Problems solved on Hackerrank: 6
+
+- Kangaroo
+- Apple and Orange
+- Grading Students
+- Matching Specific String
+- Repeated String
+- Jumping on the Clouds
+
+The Kangaroo one took me quite awhile to solve...about 1 hour?! 🤯  
 Setup may ToDoList's .env file, but still need to research more about how to properly use it.
 
 **Thoughts:** I really enjoy solving problems...!😅But might need to refresh my math concepts...! 🤣
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+
+### Day 007: March 07, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 5
+
+- Array Manipulation (half test failed due to timeout...!🤯)
+- Minimum Swaps 2
+- New Year Chaos
+- Arrays: Left Rotation
+- 2D Array - DS  
+
+Solving problems are really addictive...! 🤓  
+
+**Thoughts:** Array manipulation is really interesting...! 🤣
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
