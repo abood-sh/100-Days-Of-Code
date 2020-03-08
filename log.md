@@ -98,3 +98,21 @@ Solving problems are really addictive...! 🤓
 **Thoughts:** Array manipulation is really interesting...! 🤣
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
+
+### Day 008: March 08, 2020 SUN
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 6
+
+- Day of the Programmer
+- Migratory Birds
+- Divisible Sum Pairs
+- Birthday Chocolate
+- Breaking the Records
+- Between Two Sets
+
+Today I used Adobe XD to design the markup for my freeCodeCamp's product landing page's project. Also, finished the general structure of the html file.
+
+**Thoughts:** 8 days in, and I'm still keeping up...! I'm impressed with myself~! HAHA 🤣Don't give up, just keep going~!!! You'll get hired someday?! 🤞🏼
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | FFC-ProductLandingPage
