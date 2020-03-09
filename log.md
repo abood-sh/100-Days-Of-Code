@@ -115,4 +115,21 @@ Today I used Adobe XD to design the markup for my freeCodeCamp's product landing
 
 **Thoughts:** 8 days in, and I'm still keeping up...! I'm impressed with myself~! HAHA 🤣Don't give up, just keep going~!!! You'll get hired someday?! 🤞🏼
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | FFC-ProductLandingPage
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
+
+### Day 009: March 09, 2020 MON
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 5
+
+- Picking Numbers
+- Cats and a Mouse
+- Electronics Shop
+- Drawing Book
+- Bon Appétit
+
+Today I start to build my freeCodeCamp's product landing page's project. Finished styling the header section.
+
+**Thoughts:** Got stock in the Magic Square challenge on Hackerrank. Need to figure out how to check certain pattern in 2D array...! 🤔
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
