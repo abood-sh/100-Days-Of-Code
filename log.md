@@ -133,3 +133,13 @@ Today I start to build my freeCodeCamp's product landing page's project. Finishe
 **Thoughts:** Got stock in the Magic Square challenge on Hackerrank. Need to figure out how to check certain pattern in 2D array...! 🤔
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
+
+### Day 010: March 10, 2020 TUE
+
+**Today's Progress:**  
+Today I focus to building my freeCodeCamp's product landing page's project. Finished styling the desktop version, still need to work on the RWD part tmr.
+Taking a break on the Hackerrank challenges to let my brain rest...! 😅
+
+**Thoughts:** CSS is definitely not as easy as I though..., need to figure out a way to make it cleaner?! 🤔
+
+**Link to work:** [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
