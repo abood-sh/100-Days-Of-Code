@@ -143,3 +143,36 @@ Taking a break on the Hackerrank challenges to let my brain rest...! 😅
 **Thoughts:** CSS is definitely not as easy as I though..., need to figure out a way to make it cleaner?! 🤔
 
 **Link to work:** [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
+
+### Day 011: March 11, 2020 WED
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 7
+
+- Climbing the LeaderBoard
+- Viral Advertising
+- Beautiful Days at the Movies
+- Angry Professor
+- Utopian Tree
+- Designer PDF Viewer
+- The Hurdle Race
+
+Back with Hackerrank challenges! Today I got stuck with the "Climbing the LeaderBoard" challenge for quite some time...! My logic is right but 4 of the sample keep getting runtime error, after some googling it had something to do with "Big O notation". Cuz I was looping one array inside another array which is O(n * n), it will slow down when n gets too big...?! Anyway, still not fully understanding the concept yet, but I know I need to somehow loop through both array at the same time to compare them. So, I finally found that I can do this:
+
+```javascript
+// loop both array in nested for loop  
+// but put both starting point on the outside loop  
+for (let i = 0, j = 0; i < n; n++) {
+    for (; j < m; j++) {
+        // code goes here...
+    }
+}
+// this way j will not reset every time i go up!
+```
+totally did not know I can do that...! 😅
+
+Today I also finished my PS5 product landing page for freeCodeCamp's project. It was fun!
+
+**Thoughts:**  Need to find better tutorial to get the "Big O notation" concept!! 🤔
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage) ✔️
