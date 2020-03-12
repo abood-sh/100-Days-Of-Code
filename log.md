@@ -176,3 +176,34 @@ Today I also finished my PS5 product landing page for freeCodeCamp's project. It
 **Thoughts:**  Need to find better tutorial to get the "Big O notation" concept!! 🤔
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage) ✔️
+
+### Day 012: March 12, 2020 THU
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 4  
+
+- Jumping on the Clouds: Revisited
+- Sequence Equation
+- Circular Array Rotation
+- Save the Prisoner!  
+
+Problems solved on Codewars: 12
+
+- Find the unique number
+- Find the missing letter
+- Sum of two lowest positive integers
+- Detect Pangram
+- Does my number look big in this?
+- Duplicate Encoder
+- Disemvowel Trolls
+- Beginner Series #3 Sum of Numbers
+- Persistent Bugger
+- Complementary DNA
+- Binary Addition
+- Multiply
+
+Today I not quite sure how to approach my next freeCodeCamp project which is the "Build a Technical Documentation Page", so I kinda just keep practice more problem solving on Hackerrank & my new found playground "Codewars"! 😅
+
+**Thoughts:** Blank...!🤔
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
