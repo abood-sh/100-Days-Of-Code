@@ -207,3 +207,23 @@ Today I not quite sure how to approach my next freeCodeCamp project which is the
 **Thoughts:** Blank...!🤔
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+
+### Day 013: March 13, 2020 FRI
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 3
+
+- Sherlock and Squares
+- Append and Delete
+- Find Digits
+
+Problems solved on Codewars: 2
+
+- Find the odd int
+- Maximum subArray sum
+
+Today I mostly watching YouTube tutorials to find some inspirations of my next project. Traversy Media & Web Dev Simplified. Both talk about Stripe API for your online shop!! I should try to build some simple shopping site to try it out!!
+
+**Thoughts:** Feeling a bit under the weather, hopefully it's not **COVID-19**!!! 🤞🏼
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
