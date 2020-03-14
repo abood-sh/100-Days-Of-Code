@@ -169,6 +169,7 @@ for (let i = 0, j = 0; i < n; n++) {
 }
 // this way j will not reset every time i go up!
 ```
+
 totally did not know I can do that...! 😅
 
 Today I also finished my PS5 product landing page for freeCodeCamp's project. It was fun!
@@ -231,17 +232,17 @@ Today I mostly watching YouTube tutorials to find some inspirations of my next p
 ### Day 014: March 14, 2020 SAT
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 2
+Problems solved on Hackerrank: 3
 
+- Equalize the Array
 - Cut the sticks
 - Library Fine
 
-Problems solved on Codewars: 1
+Problems solved on Codewars: 2
 
+- Title Case
 - Highest Scoring Word
 
-Today I ...
-
-**Thoughts:** ...
+**Thoughts:** Feeling kinda burnt out, need to slow down a bit to process what I've been learning. 😵
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
