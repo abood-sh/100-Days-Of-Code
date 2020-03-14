@@ -227,3 +227,21 @@ Today I mostly watching YouTube tutorials to find some inspirations of my next p
 **Thoughts:** Feeling a bit under the weather, hopefully it's not **COVID-19**!!! 🤞🏼
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+
+### Day 014: March 14, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 2
+
+- Cut the sticks
+- Library Fine
+
+Problems solved on Codewars: 1
+
+- Highest Scoring Word
+
+Today I ...
+
+**Thoughts:** ...
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
