@@ -246,3 +246,17 @@ Problems solved on Codewars: 2
 **Thoughts:** Feeling kinda burnt out, need to slow down a bit to process what I've been learning. 😵
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+
+### Day 015: March 15, 2020 SUN
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 2
+
+- Minimum Distances
+- Beautiful Triplets
+
+Problems solved on Codewars: 0
+
+**Thoughts:** Busy with other work today so not much progress. Challenges are getting harder now, cuz running out of easy level challenges...! 🤣 Need to learn more algorithm concepts to deal with upcoming challenges!!
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
