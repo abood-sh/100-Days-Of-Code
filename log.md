@@ -260,3 +260,21 @@ Problems solved on Codewars: 0
 **Thoughts:** Busy with other work today so not much progress. Challenges are getting harder now, cuz running out of easy level challenges...! 🤣 Need to learn more algorithm concepts to deal with upcoming challenges!!
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
+
+### Day 016: March 16, 2020 MON
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 4
+
+- Service Lane
+- Modified Kaprekar Numbers
+- Halloween Sale
+- ACM ICPC Team
+
+Problems solved on Codewars: 1
+
+- Buying a car
+
+**Thoughts:** Running into a bug on the "Service Lane" challenge that the input for JavaScript is wrong...! I had to go through the whole code inside the editor to find the variable I need in order to complete the challenge! Haha~! Kinda my official debugging experience! 🤣
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
