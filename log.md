@@ -278,3 +278,17 @@ Problems solved on Codewars: 1
 **Thoughts:** Running into a bug on the "Service Lane" challenge that the input for JavaScript is wrong...! I had to go through the whole code inside the editor to find the variable I need in order to complete the challenge! Haha~! Kinda my official debugging experience! 🤣
 
 **Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+
+### Day 017: March 17, 2020 TUE
+
+**Today's Progress:**  
+Problems solved on Hackerrank: 2
+
+- Lisa's Workbook
+- Chocolate Feast
+
+Problems solved on Codewars: 0
+
+**Thoughts:** Somewhat productive day~! 👍🏼I started my freeCodeCamp's "Technical Documentation Page" RWD project. I decided to use it to document my "JS Algorithms & Data Structures Projects". It went well today, I already finished about half of it so should be able to complete it within the next few days. 🤓
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FCC-TechnicalDocumentationPage](https://github.com/jacoblindev/FCC-TechnicalDocumentationPage)
