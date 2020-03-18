@@ -44,7 +44,7 @@ Found a npm package called [popular-movie-quotes](https://www.npmjs.com/package/
 Got sidetrack today, found a new coding practice website "Hackerrank" and got hook on solving challenges...!🤪Solved 12 challenges!! It was really fun! Like playing games. Haha~!
 Set up the list field with a delete button.
 
-Problems solved on Hackerrank: 12
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 12
 
 - Counting Valleys
 - Sock Merchant
@@ -61,12 +61,12 @@ Problems solved on Hackerrank: 12
 
 **Thoughts:** I really enjoy solving problems...!😅
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+**Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
 
 ### Day 006: March 06, 2020 FRI
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 6
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 6
 
 - Kangaroo
 - Apple and Orange
@@ -80,14 +80,14 @@ Setup may ToDoList's .env file, but still need to research more about how to pro
 
 **Thoughts:** I really enjoy solving problems...!😅But might need to refresh my math concepts...! 🤣
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
+**Link to work:** [ToDoList-v2](https://github.com/jacoblindev/ToDoList-v2)
 
 ### Day 007: March 07, 2020 SAT
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 5
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 4
 
-- Array Manipulation (half test failed due to timeout...!🤯)
+- ~~Array Manipulation (half test failed due to timeout...!🤯)~~
 - Minimum Swaps 2
 - New Year Chaos
 - Arrays: Left Rotation
@@ -97,12 +97,12 @@ Solving problems are really addictive...! 🤓
 
 **Thoughts:** Array manipulation is really interesting...! 🤣
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
+**Link to work:** N/A
 
 ### Day 008: March 08, 2020 SUN
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 6
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 6
 
 - Day of the Programmer
 - Migratory Birds
@@ -115,7 +115,7 @@ Today I used Adobe XD to design the markup for my freeCodeCamp's product landing
 
 **Thoughts:** 8 days in, and I'm still keeping up...! I'm impressed with myself~! HAHA 🤣Don't give up, just keep going~!!! You'll get hired someday?! 🤞🏼
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
+**Link to work:** [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage)
 
 ### Day 009: March 09, 2020 MON
 
@@ -147,7 +147,7 @@ Taking a break on the Hackerrank challenges to let my brain rest...! 😅
 ### Day 011: March 11, 2020 WED
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 7
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 7
 
 - Climbing the LeaderBoard
 - Viral Advertising
@@ -176,19 +176,19 @@ Today I also finished my PS5 product landing page for freeCodeCamp's project. It
 
 **Thoughts:**  Need to find better tutorial to get the "Big O notation" concept!! 🤔
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage) ✔️
+**Link to work:** [FFC-ProductLandingPage](https://github.com/jacoblindev/FCC-ProductLandingPage) ✔️
 
 ### Day 012: March 12, 2020 THU
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 4  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 4  
 
 - Jumping on the Clouds: Revisited
 - Sequence Equation
 - Circular Array Rotation
 - Save the Prisoner!  
 
-Problems solved on Codewars: 12
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 12
 
 - Find the unique number
 - Find the missing letter
@@ -207,7 +207,7 @@ Today I not quite sure how to approach my next freeCodeCamp project which is the
 
 **Thoughts:** Blank...!🤔
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+**Link to work:** N/A
 
 ### Day 013: March 13, 2020 FRI
 
@@ -232,25 +232,25 @@ Today I mostly watching YouTube tutorials to find some inspirations of my next p
 ### Day 014: March 14, 2020 SAT
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 3
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 3
 
 - Equalize the Array
 - Cut the sticks
 - Library Fine
 
-Problems solved on Codewars: 2
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 2
 
 - Title Case
 - Highest Scoring Word
 
 **Thoughts:** Feeling kinda burnt out, need to slow down a bit to process what I've been learning. 😵
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+**Link to work:** N/A
 
 ### Day 015: March 15, 2020 SUN
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 2
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 2
 
 - Minimum Distances
 - Beautiful Triplets
@@ -259,30 +259,30 @@ Problems solved on Codewars: 0
 
 **Thoughts:** Busy with other work today so not much progress. Challenges are getting harder now, cuz running out of easy level challenges...! 🤣 Need to learn more algorithm concepts to deal with upcoming challenges!!
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev)
+**Link to work:** N/A
 
 ### Day 016: March 16, 2020 MON
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 4
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 4
 
 - Service Lane
 - Modified Kaprekar Numbers
 - Halloween Sale
 - ACM ICPC Team
 
-Problems solved on Codewars: 1
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1
 
 - Buying a car
 
 **Thoughts:** Running into a bug on the "Service Lane" challenge that the input for JavaScript is wrong...! I had to go through the whole code inside the editor to find the variable I need in order to complete the challenge! Haha~! Kinda my official debugging experience! 🤣
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [Codewars](https://www.codewars.com/users/jacoblindev)
+**Link to work:**  N/A
 
 ### Day 017: March 17, 2020 TUE
 
 **Today's Progress:**  
-Problems solved on Hackerrank: 2
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 2
 
 - Lisa's Workbook
 - Chocolate Feast
@@ -291,4 +291,21 @@ Problems solved on Codewars: 0
 
 **Thoughts:** Somewhat productive day~! 👍🏼I started my freeCodeCamp's "Technical Documentation Page" RWD project. I decided to use it to document my "JS Algorithms & Data Structures Projects". It went well today, I already finished about half of it so should be able to complete it within the next few days. 🤓
 
-**Link to work:** [Hackerrank](https://www.hackerrank.com/jacoblindev) | [FCC-TechnicalDocumentationPage](https://github.com/jacoblindev/FCC-TechnicalDocumentationPage)
+**Link to work:** [FCC-TechnicalDocumentationPage](https://jacoblindev.github.io/FCC-TechnicalDocumentationPage/)
+
+### Day 018: March 18, 2020 WED
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 3
+
+- Array Manipulation 🎉
+- Fair Rations-10 hours ago
+- Flatland Space Stations
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1
+
+- Two Sum
+
+**Thoughts:** A really productive day~! 👍🏼I finished my freeCodeCamp's "Technical Documentation Page" RWD project. And attempt one more time to solve the "Array Manipulation" challenge (level: HARD), with some google search I finally solved it. Learned "Prefix Sum Array" concept!! 🤓
+
+**Link to work:** [FCC-TechnicalDocumentationPage](https://jacoblindev.github.io/FCC-TechnicalDocumentationPage/) ✔️
