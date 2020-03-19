@@ -309,3 +309,19 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1
 **Thoughts:** A really productive day~! 👍🏼I finished my freeCodeCamp's "Technical Documentation Page" RWD project. And attempt one more time to solve the "Array Manipulation" challenge (level: HARD), with some google search I finally solved it. Learned "Prefix Sum Array" concept!! 🤓
 
 **Link to work:** [FCC-TechnicalDocumentationPage](https://jacoblindev.github.io/FCC-TechnicalDocumentationPage/) ✔️
+
+### Day 019: March 19, 2020 THU
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 2
+
+- Strange Counter
+- Arrays - DS
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1
+
+- Vasya - Clerk
+
+**Thoughts:** Not much coding challenges today, mainly focus on trying to finished my freeCodeCamp's RWD projects. I started my last one which is personal portfolio webpage, and I'm half way through already. 🤓Can definitely finish it tomorrow!
+
+**Link to work:** [FCC-PersonalPortfolioWebpage](https://github.com/jacoblindev/FCC-PersonalPortfolioWebpage)
