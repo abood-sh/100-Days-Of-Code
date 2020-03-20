@@ -324,4 +324,15 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1
 
 **Thoughts:** Not much coding challenges today, mainly focus on trying to finished my freeCodeCamp's RWD projects. I started my last one which is personal portfolio webpage, and I'm half way through already. 🤓Can definitely finish it tomorrow!
 
-**Link to work:** [FCC-PersonalPortfolioWebpage](https://github.com/jacoblindev/FCC-PersonalPortfolioWebpage)
+**Link to work:** [FCC-PersonalPortfolioWebpage](https://jacoblindev.github.io/FCC-PersonalPortfolioWebpage/)
+
+### Day 020: March 20, 2020 FRI
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0
+
+**Thoughts:** Finished my personal portfolio webpage and got my first 2 freeCodeCamp certificates. RWD & JS-Algorithms-&-Data-Structure. Taking a break on solving problems, instead need to focus more on building websites! And planning out what content to share on Instagram. 🤔
+
+**Link to work:** [FCC-PersonalPortfolioWebpage](https://jacoblindev.github.io/FCC-PersonalPortfolioWebpage/) ✔️
