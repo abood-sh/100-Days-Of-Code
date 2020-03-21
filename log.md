@@ -336,3 +336,23 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0
 **Thoughts:** Finished my personal portfolio webpage and got my first 2 freeCodeCamp certificates. RWD & JS-Algorithms-&-Data-Structure. Taking a break on solving problems, instead need to focus more on building websites! And planning out what content to share on Instagram. 🤔
 
 **Link to work:** [FCC-PersonalPortfolioWebpage](https://jacoblindev.github.io/FCC-PersonalPortfolioWebpage/) ✔️
+
+### Day 021: March 21, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 2 (65)
+
+- Strong Password
+- CamelCase
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1 (20)
+
+- Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
+
+**Thoughts:** Today I went through a bunch YouTube tutorials to see which front-end framework should I start learning. **React.js** vs **Vue.js** ? 🤔I decided to try **Vue.js** first because it actually seems much friendly to beginners. Cuz you can still just write in HTML & CSS, and not suddenly jump to write everything inside JS. 
+
+P.S. The Net Ninja's "[Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)" seems pretty easy to grasp!!!
+
+Maybe I can start try to implements those function I solved into some kinda small webapp? Like some simple calculations?!
+
+**Link to work:** N/A
