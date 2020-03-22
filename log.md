@@ -356,3 +356,18 @@ P.S. The Net Ninja's "[Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=
 Maybe I can start try to implements those function I solved into some kinda small webapp? Like some simple calculations?!
 
 **Link to work:** N/A
+
+### Day 022: March 22, 2020 SUN
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (65)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20)
+
+**Thoughts:** Today I start learning **Vue.js**, it's really beginner friendly. Still just trying things out, will start some small projects soon!! 🤔  
+
+The Net Ninja's "[Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)" seems pretty easy to grasp!!!
+
+Traversy Media's "[Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U&t=1333s)" is nice too.
+
+**Link to work:** N/A
