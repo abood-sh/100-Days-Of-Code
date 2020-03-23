@@ -371,3 +371,25 @@ The Net Ninja's "[Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cU
 Traversy Media's "[Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U&t=1333s)" is nice too.
 
 **Link to work:** N/A
+
+### Day 023: March 23, 2020 MON
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 4 (69)
+
+- Matching Word & Non-Word Character
+- Matching Whitespace & Non-Whitespace Character
+- Matching Digits & Non-Digit Characters
+- Matching Anything But a Newline
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20)
+
+**Thoughts:** Today I follow Traversy Media's tutorial and build a todolist app with Vue.js! Also, went through the Vue Doc for some basic concepts. Maybe try to take it slow and really mastering it so it will be good for future job hunting...?! 
+
+Going through some regex practice on Hackerrank, so that I can better prepare for String related challenges.
+
+The Net Ninja's "[Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)" seems pretty easy to grasp!!!
+
+Traversy Media's "[Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U&t=1333s)" is nice too.
+
+**Link to work:** [TodoList-Vue](https://github.com/jacoblindev/vue_learning_todoapp)
