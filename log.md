@@ -393,3 +393,32 @@ The Net Ninja's "[Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cU
 Traversy Media's "[Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U&t=1333s)" is nice too.
 
 **Link to work:** [TodoList-Vue](https://github.com/jacoblindev/vue_learning_todoapp)
+
+### Day 024: March 24, 2020 TUE
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 15 (84)
+
+- Matching Ending Items
+- Matching One Or More Repetitions
+- Matching Zero Or More Repetitions
+- Matching {x, y} Repetitions
+- Matching {x} Repetitions
+- HackerRank Language
+- Saying Hi
+- Matching Character Ranges
+- Excluding Specific Characters
+- Matching Specific Characters
+- Capturing & Non-Capturing Groups
+- Negative Lookbehind
+- Positive Lookbehind
+- Negative Lookahead
+- Matching Start & End
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20)
+
+**Thoughts:** Not feeling very focus on learning Vue.js, so instead I try out the challenge on [Frontend Mentor](https://www.frontendmentor.io/) and build a small landing page. Kinda fun trying to code out people's design.
+
+Keep going through some regex practice on Hackerrank, so that I can better prepare for String related challenges.
+
+**Link to work:** [FM-FourCards](https://github.com/jacoblindev/FM-FourCards)
