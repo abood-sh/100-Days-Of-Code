@@ -422,3 +422,21 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20
 Keep going through some regex practice on Hackerrank, so that I can better prepare for String related challenges.
 
 **Link to work:** [FM-FourCards](https://github.com/jacoblindev/FM-FourCards)
+
+### Day 025: March 25, 2020 WED
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 4 (88)
+
+- Back-references To Failed Groups
+- Matching Same Text Again & Again
+- Alternative Matching
+- Matching Word Boundaries
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20)
+
+**Thoughts:**  Started my second challenge on [Frontend Mentor](https://www.frontendmentor.io/), but not doing much yet. Kinda busy with life stuff...! Well, I'm 1/4 into the #100DaysOfCode challenge already. I'm surprised that I'm still keep it up, this is really a good way to motivate myself and hold myself accountable. Somehow it breaks my procrastinating habit. Awesome~! 🤟🏼
+
+Keep going through some regex practice on Hackerrank.
+
+**Link to work:** [FM-BaseApparel](https://github.com/jacoblindev/FM-BaseApparel)
