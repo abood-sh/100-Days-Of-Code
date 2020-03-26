@@ -440,3 +440,14 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20
 Keep going through some regex practice on Hackerrank.
 
 **Link to work:** [FM-BaseApparel](https://github.com/jacoblindev/FM-BaseApparel)
+
+### Day 026: March 26, 2020 THU
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20)
+
+**Thoughts:**  Keep on working my [Frontend Mentor](https://www.frontendmentor.io/) project, almost finished still need to do some JS for the Error message. Also, keep on learning Vue.js bits by bits.
+
+**Link to work:** [FM-BaseApparel](https://github.com/jacoblindev/FM-BaseApparel)
