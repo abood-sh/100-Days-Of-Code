@@ -462,3 +462,14 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20
 **Thoughts:**  Keep on working my [Frontend Mentor](https://www.frontendmentor.io/) project, finished Base Apparel and I didn't use any JS. I end up just use CSS' pseudo-selector ":invalid" to style the Error message. I also finished another simple challenge. Kinda productive today! Also, keep on learning Vue.js bits by bits.
 
 **Link to work:** [FM-BaseApparel](https://jacoblindev.github.io/FM-BaseApparel/) | [FM-SinglePriceGridComponent](https://jacoblindev.github.io/FM-SinglePriceGridComponent/)
+
+### Day 028: March 28, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20)
+
+**Thoughts:**  Started another [Frontend Mentor](https://www.frontendmentor.io/) project, but feeling a bit lazy...! So, just keep on learning Vue.js bits by bits through the documentation. What project should I build with the Essentials Vue.js knowledge I just learned? 🤔
+
+**Link to work:** [FM-IntroComponent-SignUpForm](https://github.com/jacoblindev/FM-IntroComponent-SignupForm)
