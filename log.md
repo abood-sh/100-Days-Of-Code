@@ -473,3 +473,20 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20
 **Thoughts:**  Started another [Frontend Mentor](https://www.frontendmentor.io/) project, but feeling a bit lazy...! So, just keep on learning Vue.js bits by bits through the documentation. What project should I build with the Essentials Vue.js knowledge I just learned? 🤔
 
 **Link to work:** [FM-IntroComponent-SignUpForm](https://github.com/jacoblindev/FM-IntroComponent-SignupForm)
+
+### Day 029: March 29, 2020 SUN
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 5 (25)
+
+- Break camelCase
+- Consecutive strings
+- Product of consecutive Fib numbers
+- Word a10n (abbreviation)
+- Rot13
+
+**Thoughts:** Not feel like building website today, so went on Codewars to try solve some challenge. And I did solved 5 String related challenges, but got stuck for some challenges that I need to skip. Definitely need to practice more on String manipulation.
+
+**Link to work:** N/A
