@@ -490,3 +490,16 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 5 (25
 **Thoughts:** Not feel like building website today, so went on Codewars to try solve some challenge. And I did solved 5 String related challenges, but got stuck for some challenges that I need to skip. Definitely need to practice more on String manipulation.
 
 **Link to work:** N/A
+
+### Day 030: March 30, 2020 MON
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+**Thoughts:** Well, can't believed It's already 30% into the #100DaysOfCode challenge, and I'm still keeping it up! I guess this is the power of commitment?! 💪🏻I did slowly building up my skills and portfolio! Awesome~!👊🏼加油～！
+
+Not doing much today, kinda got busy with my PT job. But I still code a little bit of the SignUp Form challenge from Frontend Mentor.
+
+**Link to work:** [FM-IntroComponent-SignUpForm](https://github.com/jacoblindev/FM-IntroComponent-SignupForm)
