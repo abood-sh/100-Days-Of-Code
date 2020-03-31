@@ -503,3 +503,14 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25
 Not doing much today, kinda got busy with my PT job. But I still code a little bit of the SignUp Form challenge from Frontend Mentor.
 
 **Link to work:** [FM-IntroComponent-SignUpForm](https://github.com/jacoblindev/FM-IntroComponent-SignupForm)
+
+### Day 031: March 31, 2020 TUE
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+**Thoughts:** Today I code a little bit of the SignUp Form challenge from Frontend Mentor, still got the error state part need to be done! Tmr I got a web developer job interview, so need to sleep well tonight!! Wish me luck!!🤞🏼Hope every goes well!!!
+
+**Link to work:** [FM-IntroComponent-SignUpForm](https://github.com/jacoblindev/FM-IntroComponent-SignupForm)
