@@ -514,3 +514,18 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25
 **Thoughts:** Today I code a little bit of the SignUp Form challenge from Frontend Mentor, still got the error state part need to be done! Tmr I got a web developer job interview, so need to sleep well tonight!! Wish me luck!!🤞🏼Hope every goes well!!!
 
 **Link to work:** [FM-IntroComponent-SignUpForm](https://github.com/jacoblindev/FM-IntroComponent-SignupForm)
+
+### Day 032: April 01, 2020 WED
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+**Thoughts:** Today I finished the SignUp Form challenge from Frontend Mentor, I finally start using JS for DOM manipulation. Because the :invalid input state had some issue with type="text" fields, it will fire right at the beginning which is not what we want. So, instead I use "blur" event to setAttribute "required" to the input fields to show the error message after user finished with the field to check its validation.
+
+Went to the interview today, it seems like it's going well but you never know?! Definitely did not prepare well enough for the Java test...! 😭 Hope they see my potential and give me a chance...! Let's wait & see!!!
+
+Happy fools day...!🤪
+
+**Link to work:** [FM-IntroComponent-SignUpForm](https://jacoblindev.github.io/FM-IntroComponent-SignupForm/)
