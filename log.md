@@ -529,3 +529,14 @@ Went to the interview today, it seems like it's going well but you never know?! 
 Happy fools day...!🤪
 
 **Link to work:** [FM-IntroComponent-SignUpForm](https://jacoblindev.github.io/FM-IntroComponent-SignupForm/)
+
+### Day 033: April 02, 2020 THU
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+**Thoughts:** Today is the start of the long weekend, so it's really busy at my PT job. Too tired to do much so I only setup the new FM challenge for tmr! 😴🥱 I'll try to do more on this long weekend...! 💪🏻
+
+**Link to work:** [FM-PingComingSoonPage](https://github.com/jacoblindev/FM-PingComingSoonPage)
