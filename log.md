@@ -461,7 +461,7 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (20
 
 **Thoughts:**  Keep on working my [Frontend Mentor](https://www.frontendmentor.io/) project, finished Base Apparel and I didn't use any JS. I end up just use CSS' pseudo-selector ":invalid" to style the Error message. I also finished another simple challenge. Kinda productive today! Also, keep on learning Vue.js bits by bits.
 
-**Link to work:** [FM-BaseApparel](https://jacoblindev.github.io/FM-BaseApparel/) | [FM-SinglePriceGridComponent](https://jacoblindev.github.io/FM-SinglePriceGridComponent/)
+**Link to work:** [FM-BaseApparel](https://jacoblindev.github.io/FM-BaseApparel/) ✔️ | [FM-SinglePriceGridComponent](https://jacoblindev.github.io/FM-SinglePriceGridComponent/) ✔️
 
 ### Day 028: March 28, 2020 SAT
 
@@ -528,7 +528,7 @@ Went to the interview today, it seems like it's going well but you never know?! 
 
 Happy fools day...!🤪
 
-**Link to work:** [FM-IntroComponent-SignUpForm](https://jacoblindev.github.io/FM-IntroComponent-SignupForm/)
+**Link to work:** [FM-IntroComponent-SignUpForm](https://jacoblindev.github.io/FM-IntroComponent-SignupForm/) ✔️
 
 ### Day 033: April 02, 2020 THU
 
@@ -540,3 +540,14 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25
 **Thoughts:** Today is the start of the long weekend, so it's really busy at my PT job. Too tired to do much so I only setup the new FM challenge for tmr! 😴🥱 I'll try to do more on this long weekend...! 💪🏻
 
 **Link to work:** [FM-PingComingSoonPage](https://github.com/jacoblindev/FM-PingComingSoonPage)
+
+### Day 034: April 03, 2020 FRI
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+**Thoughts:** Had a chill day today~! 😌 Finished one challenge of [Frontend Mentor](frontendmentor.io) and start another one! 💪🏻
+
+**Link to work:** [FM-PingComingSoonPage](https://jacoblindev.github.io/FM-PingComingSoonPage/) ✔️ | [FM-HuddleLandingPage](https://github.com/jacoblindev/FM-HuddleLandingPage)
