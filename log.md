@@ -551,3 +551,14 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25
 **Thoughts:** Had a chill day today~! 😌 Finished one challenge of [Frontend Mentor](frontendmentor.io) and start another one! 💪🏻
 
 **Link to work:** [FM-PingComingSoonPage](https://jacoblindev.github.io/FM-PingComingSoonPage/) ✔️ | [FM-HuddleLandingPage](https://github.com/jacoblindev/FM-HuddleLandingPage)
+
+### Day 035: April 04, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (88)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+**Thoughts:** Lazy day today~! 🤪 Finished one more challenge of [Frontend Mentor](frontendmentor.io)! 💪🏻This one took a bit long time cuz it's a full page website. I manage to sit down and power through!!! 👊🏼
+
+**Link to work:** [FM-HuddleLandingPage](https://github.com/jacoblindev/FM-HuddleLandingPage) ✔️
