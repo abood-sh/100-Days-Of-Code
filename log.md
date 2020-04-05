@@ -562,3 +562,23 @@ Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25
 **Thoughts:** Lazy day today~! 🤪 Finished one more challenge of [Frontend Mentor](frontendmentor.io)! 💪🏻This one took a bit long time cuz it's a full page website. I manage to sit down and power through!!! 👊🏼
 
 **Link to work:** [FM-HuddleLandingPage](https://github.com/jacoblindev/FM-HuddleLandingPage) ✔️
+
+### Day 036: April 05, 2020 SUN
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 6 (94)
+
+- Day 1: Let and Const
+- Recursion: Fibonacci Numbers
+- Day 1: Functions
+- Day 1: Arithmetic Operators
+- Day 0: Data Types
+- Day 0: Hello, World!
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Finished one more challenge of [Frontend Mentor](frontendmentor.io)! 💪🏻And setup another one for tmr. Start a "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/jacoblindev), good to refresh my basics!!
+
+**Thoughts:** Although I'm practice a lot but kinda feeling like stock and not really moving forward...?! And also not very focus lately...?! Really need to find a way to plan things out a bit better, instead of doing whatever...!!!🤔
+
+**Link to work:** [FM-HuddleLandingPage-SingleIntro](https://jacoblindev.github.io/FM-HuddleLandingPage-SingleIntro/) ✔️ | [FM-FyloLandingPage](https://github.com/jacoblindev/FM-FyloLandingPage)
