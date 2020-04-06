@@ -582,3 +582,20 @@ Finished one more challenge of [Frontend Mentor](frontendmentor.io)! 💪🏻And
 **Thoughts:** Although I'm practice a lot but kinda feeling like stock and not really moving forward...?! And also not very focus lately...?! Really need to find a way to plan things out a bit better, instead of doing whatever...!!!🤔
 
 **Link to work:** [FM-HuddleLandingPage-SingleIntro](https://jacoblindev.github.io/FM-HuddleLandingPage-SingleIntro/) ✔️ | [FM-FyloLandingPage](https://github.com/jacoblindev/FM-FyloLandingPage)
+
+### Day 037: April 06, 2020 MON
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 3 (97)
+
+- Day 2: Loops
+- Day 2: Conditional Statements: Switch
+- Day 2: Conditional Statements: If-Else
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Day 2 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/jacoblindev)!!
+
+**Thoughts:** ...! 🥱😴
+
+**Link to work:** [FM-FyloLandingPage](https://github.com/jacoblindev/FM-FyloLandingPage)
