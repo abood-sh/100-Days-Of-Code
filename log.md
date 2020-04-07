@@ -599,3 +599,20 @@ Day 2 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/j
 **Thoughts:** ...! 🥱😴
 
 **Link to work:** [FM-FyloLandingPage](https://github.com/jacoblindev/FM-FyloLandingPage)
+
+### Day 038: April 07, 2020 TUE
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 3 (100)
+
+- Day 3: Throw
+- Day 3: Try, Catch, and Finally
+- Day 3: Arrays
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Day 3 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/jacoblindev)! Quite a productive day. Finished one FM challenge and started another one, will finished it tmr🤞🏼!!
+
+**Thoughts:** I do think my HTML & CSS is getting much better and consistent, need to start try some advance stuff like animation but overall not bad!! Also, need to start trying more DOM manipulation and JS effects!! Good job, keep it up! 👍🏼
+
+**Link to work:** [FM-FyloLandingPage](https://github.com/jacoblindev/FM-FyloLandingPage) ✔️ | [FM-SocialMediaDashboard](https://github.com/jacoblindev/FM-SocialMediaDashboard)
