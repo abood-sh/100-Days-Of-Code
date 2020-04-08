@@ -616,3 +616,20 @@ Day 3 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/j
 **Thoughts:** I do think my HTML & CSS is getting much better and consistent, need to start try some advance stuff like animation but overall not bad!! Also, need to start trying more DOM manipulation and JS effects!! Good job, keep it up! 👍🏼
 
 **Link to work:** [FM-FyloLandingPage](https://github.com/jacoblindev/FM-FyloLandingPage) ✔️ | [FM-SocialMediaDashboard](https://github.com/jacoblindev/FM-SocialMediaDashboard)
+
+### Day 039: April 08, 2020 WED
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 3 (103)
+
+- Day 4: Classes
+- Day 4: Count Objects
+- Day 4: Create a Rectangle Object
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Day 4 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/jacoblindev)! So tired... but I push through and finished the FM challenge!! I manage to find out how to use jQuery to toggle the class for the dark mode effect!! Cool~!!!
+
+**Thoughts:** 🥱😴
+
+**Link to work:** [FM-SocialMediaDashboard](https://github.com/jacoblindev/FM-SocialMediaDashboard) ✔️
