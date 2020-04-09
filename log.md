@@ -633,3 +633,20 @@ Day 4 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/j
 **Thoughts:** 🥱😴
 
 **Link to work:** [FM-SocialMediaDashboard](https://github.com/jacoblindev/FM-SocialMediaDashboard) ✔️
+
+### Day 040: April 09, 2020 THU
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 3 (106)
+
+- Day 5: Arrow Functions
+- Day 5: Template Literals
+- Day 5: Inheritance
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Day 5 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/jacoblindev)! 
+
+**Thoughts:** Got a call from RT mart telling me I got the job. 🎉 Waiting for the email confirmation and it's all set!! After about 9 months effort to learn and becoming a web developer, I finally going to make it. 😬 Kinda scary & excited both at the same time...! Not quite sure what I get myself into, but I'm ready for any challenges & determine to succeed in this profession. 👊🏼 Good Luck!!🤞🏼
+
+**Link to work:** N/A
