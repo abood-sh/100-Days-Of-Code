@@ -632,7 +632,7 @@ Day 4 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/j
 
 **Thoughts:** 🥱😴
 
-**Link to work:** [FM-SocialMediaDashboard](https://github.com/jacoblindev/FM-SocialMediaDashboard) ✔️
+**Link to work:** [FM-SocialMediaDashboard](https://github.com/jacoblindev/FM-SocialMediaDashboard)
 
 ### Day 040: April 09, 2020 THU
 
@@ -650,3 +650,18 @@ Day 5 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/j
 **Thoughts:** Got a call from RT mart telling me I got the job. 🎉 Waiting for the email confirmation and it's all set!! After about 9 months effort to learn and becoming a web developer, I finally going to make it. 😬 Kinda scary & excited both at the same time...! Not quite sure what I get myself into, but I'm ready for any challenges & determine to succeed in this profession. 👊🏼 Good Luck!!🤞🏼
 
 **Link to work:** N/A
+
+### Day 041: April 10, 2020 FRI
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (106)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Day 6 of "10 days of JS" tutorial from [Hackerrank](https://www.hackerrank.com/jacoblindev)! Well, kinda got stuck with the Bitwise stuff...! 🤯 Need more brain power to understand it!! 😬🧠 
+
+Fixed some issue with the last project's RWD. Switch from flex to grid, and it's all good now!!
+
+**Thoughts:** Got the email confirmation for the PG job!! 🎉 Keep it up!! 😄
+
+**Link to work:** [FM-SocialMediaDashboard](https://jacoblindev.github.io/FM-SocialMediaDashboard/) ✔️
