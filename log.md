@@ -665,3 +665,21 @@ Fixed some issue with the last project's RWD. Switch from flex to grid, and it's
 **Thoughts:** Got the email confirmation for the PG job!! 🎉 Keep it up!! 😄
 
 **Link to work:** [FM-SocialMediaDashboard](https://jacoblindev.github.io/FM-SocialMediaDashboard/) ✔️
+
+### Day 042: April 11, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 2 (108)
+
+- Forward References
+- Branch Reset Groups
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Did a bit Regex lessons from [Hackerrank](https://www.hackerrank.com/jacoblindev)!
+
+Start a new FM challenge, just finished some setup for CSS & Header section of the HTML! Going to take it slow this time and focus more on structure and details.
+
+**Thoughts:** Things are changing that now I got a full-time job, time is limited now. Need to figure out a way to balance coding and workout routine for my spare times...!? 🤔🤷🏻‍♂️  
+
+**Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
