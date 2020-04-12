@@ -683,3 +683,20 @@ Start a new FM challenge, just finished some setup for CSS & Header section of t
 **Thoughts:** Things are changing that now I got a full-time job, time is limited now. Need to figure out a way to balance coding and workout routine for my spare times...!? 🤔🤷🏻‍♂️  
 
 **Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
+
+### Day 043: April 12, 2020 SUN
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 1 (109)
+
+- Positive Lookahead
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Did a bit Regex lessons from [Hackerrank](https://www.hackerrank.com/jacoblindev)!
+
+Finished setting up HTML structure for the FM challenge! Will try to practice mobile first approach for this challenge.
+
+**Thoughts:** ??? 🤷🏻‍♂️ Not feel like learning much today!!!
+
+**Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
