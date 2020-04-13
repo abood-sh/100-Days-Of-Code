@@ -700,3 +700,16 @@ Finished setting up HTML structure for the FM challenge! Will try to practice mo
 **Thoughts:** ??? 🤷🏻‍♂️ Not feel like learning much today!!!
 
 **Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
+
+### Day 044: April 13, 2020 MON
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (25)
+
+Finished the header's burger menu's css. Using the checked state to show and hide the burger-btn. Still need to work out how to show & hide the nav links, probably by using jQuery!? 🤔
+
+**Thoughts:** Just tired...! (from the PT job!) 🥱
+
+**Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
