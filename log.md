@@ -713,3 +713,21 @@ Finished the header's burger menu's css. Using the checked state to show and hid
 **Thoughts:** Just tired...! (from the PT job!) 🥱
 
 **Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
+
+### Day 045: April 14, 2020 TUE
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 2 (27)
+
+- Salesman's Travel
+- Array Helpers
+
+Did two codewars' challenges, learned how to extends build-in Array methods with the prototype. And some string manipulations.
+
+Finished the header section. End up just using css to work out the hide & show menu part! Work out the position fixed and absolute issue & width and height issues!!! 👍🏼
+
+**Thoughts:** Just tired...! (from the PT job!) 🥱
+
+**Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
