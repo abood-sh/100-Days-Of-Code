@@ -744,3 +744,16 @@ Finished the intro section... kinda?! Not sure what to do with the back ground p
 **Thoughts:** Nothing...
 
 **Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
+
+### Day 047: April 16, 2020 THU
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (27)
+
+Not doing much cuz a massive headache...! So, I took a big nap after work!
+
+**Thoughts:** Nothing...
+
+**Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
