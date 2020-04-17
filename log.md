@@ -757,3 +757,18 @@ Not doing much cuz a massive headache...! So, I took a big nap after work!
 **Thoughts:** Nothing...
 
 **Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
+
+### Day 048: April 17, 2020 FRI
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1 (28)
+
+- String incrementer
+
+Taking it easy today, not feel like coding much so just went on Codewars to solved a Kata. Again with some String manipulation, although I did solved it but it's not the most clean way to do it obviously. So I really think I need to study more about the recursive function, so I can code cleaner solutions.🤔
+
+**Thoughts:** Nothing...
+
+**Link to work:** N/A
