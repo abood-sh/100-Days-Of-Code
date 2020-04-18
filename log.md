@@ -772,3 +772,16 @@ Taking it easy today, not feel like coding much so just went on Codewars to solv
 **Thoughts:** Nothing...
 
 **Link to work:** N/A
+
+### Day 049: April 18, 2020 SAT
+
+**Today's Progress:**  
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (28)
+
+Still not work out the bg pattern issue, but I went ahead and finished the rest of the section. The mobile version part is kinda done without the bg pattern. Will work on the desktop tmr! 🤓
+
+**Thoughts:** 😌End my part-time job today!!!
+
+**Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
