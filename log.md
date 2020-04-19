@@ -785,3 +785,19 @@ Still not work out the bg pattern issue, but I went ahead and finished the rest 
 **Thoughts:** 😌End my part-time job today!!!
 
 **Link to work:** [FM-InsureLandingPage](https://github.com/jacoblindev/FM-InsureLandingPage)
+
+### Day 050: April 19, 2020 SUN
+
+**Today's Progress:**
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1 (29)
+
+- Math Issues
+
+Chill day today, just did some Codewars challenges. And watching some YouTube tutorials about unit testing. I think it might come in handy when I start my real dev job next week!!!🎉 Can't wait for it. It's kinda both exciting & nervous at the same time...! 😬
+Good Luck to myself! 🤞🏼
+
+**Thoughts:** Half way there!!! 加油～！
+
+**Link to work:** N/A
