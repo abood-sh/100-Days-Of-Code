@@ -802,3 +802,18 @@ Good Luck to myself! 🤞🏼
 **Thoughts:** Half way there!!! 加油～！50 days to go!!!
 
 **Link to work:** N/A
+
+### Day 051: April 20, 2020 MON
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (109)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (29)
+
+Chill day today, well it's 420~! So...! HAHA~!
+Learned the CSS bg-clip with text today from a IG post!! Kinda fun!
+
+**Thoughts:** Kinda excited & nervous for tmr. My first day at a real dev job!!!😬Good Luck!!!🤞🏼
+
+**Link to work:** N/A
