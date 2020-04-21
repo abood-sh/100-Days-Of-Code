@@ -817,3 +817,43 @@ Learned the CSS bg-clip with text today from a IG post!! Kinda fun!
 **Thoughts:** Kinda excited & nervous for tmr. My first day at a real dev job!!!😬Good Luck!!!🤞🏼
 
 **Link to work:** N/A
+
+### Day 052: April 21, 2020 TUE
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 1 (110)
+
+- Caesar Cipher
+
+```Javascript
+function caesarCipher(s, k) {
+    let arr = s.split('');
+    let codedArr = arr.map(e => {
+        if (e.match(/[a-z]/)) {
+            if (e.codePointAt(0) + k % 26 > 122) {
+                return String.fromCharCode(96 + (e.codePointAt(0) + k % 26 - 122));
+            } else {
+                return String.fromCharCode(e.codePointAt(0) + k % 26);
+            }
+        } else if (e.match(/[A-Z]/)) {
+            if (e.codePointAt(0) + k % 26 > 90) {
+                return String.fromCharCode(64 + (e.codePointAt(0) + k % 26 - 90));
+            } else {
+                return String.fromCharCode(e.codePointAt(0) + k % 26);
+            }
+        } else {
+            return e;
+        }  
+    }) 
+    return codedArr.join('');
+}
+```
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (29)
+
+It's my first day at my first programmer job, 👊🏼Officially become a programmer. 👨🏻‍💻 Today just do some paper work & watch a bunch of induction videos, still don't know what exactly I'll be doing? What kinda tasks will it be? Well, we'll find out soon enough. 🤷🏻‍♂️
+
+**Thoughts:** Going to spend a lot of time for my new job, so probably not going to have that much time coding my own practice?! Maybe just 30 mins to 1 hr a day for some simple practice with UI components or one challenge a day?! We'll see how long can I keep up!! Good Luck to myself...! 加油！！！
+
+**Link to work:** N/A
