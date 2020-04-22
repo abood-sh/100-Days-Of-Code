@@ -857,3 +857,19 @@ It's my first day at my first programmer job, 👊🏼Officially become a progra
 **Thoughts:** Going to spend a lot of time for my new job, so probably not going to have that much time coding my own practice?! Maybe just 30 mins to 1 hr a day for some simple practice with UI components or one challenge a day?! We'll see how long can I keep up!! Good Luck to myself...! 加油！！！
 
 **Link to work:** N/A
+
+### Day 053: April 22, 2020 WED
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (29)
+
+Today I just setting up my own work station & install all the tools I might need. Then just a bit of get to know everyone, and some initial explanation about what will be task to me in the near future. I believed I will be mostly using Java & some frontend stuff for maintaining apps & websites. So, time to refresh my Java skills~! 😬
+
+Tryout setting up Hexo blog-site so I can start documenting my journey as a programmer. Hopefully, I can build a blog-site by the end of this week. Cheers~!😅
+
+**Thoughts:** Game ON~! HAHA!!!
+
+**Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
