@@ -873,3 +873,25 @@ Tryout setting up Hexo blog-site so I can start documenting my journey as a prog
 **Thoughts:** Game ON~! HAHA!!!
 
 **Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
+
+### Day 054: April 23, 2020 THU
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 7 (36)
+
+- Get Planet Name By ID
+- Shortest Word
+- Remove First and Last Character
+- Regex validate PIN code
+- Convert boolean values to strings 'Yes' or 'No'
+- Reversed Strings
+- Beginner Series #1 School Paperwork
+
+Today I spent half day waiting windows to update..., & did some Codewars challenges at work. Then just a bit of get to know everyone, and start checking out the CMS site. It seems to be build on Angular, so I start going through w3schools' AngularJS tutorials & documentation!! Hopefully I can catch up and handle the system!
+
+**Thoughts:** Kinda just learning at work instead of doing work...! 😅
+
+**Link to work:** N/A
