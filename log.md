@@ -895,3 +895,17 @@ Today I spent half day waiting windows to update..., & did some Codewars challen
 **Thoughts:** Kinda just learning at work instead of doing work...! 😅
 
 **Link to work:** N/A
+
+### Day 055: April 24, 2020 FRI
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Finished watching the YouTube tutorial about Hexo static website generator, and tryout some themes. Will start trying to build my own theme while I figure out what I want to write about?! HAHA~!🤔 🤷🏻‍♂️
+
+**Thoughts:** Still not doing much at work...! 😅
+
+**Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
