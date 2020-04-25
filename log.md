@@ -909,3 +909,44 @@ Finished watching the YouTube tutorial about Hexo static website generator, and 
 **Thoughts:** Still not doing much at work...! 😅
 
 **Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
+
+### Day 056: April 25, 2020 SAT
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Had a chat with a friend whom also learning Java at the moment, and he ask me a LeetCode Q "**Find K closest elements**". We both got the binary search concept right and the logic for the Q right, but we're not able to understand the answer's method. While a 8.8 km run 🏃🏻‍♂️ this afternoon I finally figure it out, it had something to do with the **indexOutOfBoundsException** in Java. 🎉 That "**eureka**" moment really is a confident boost! 😄
+
+```Java
+// Binary search algorithm
+public List<Integer> closestElements(int[] arr, int k, int x) {
+    int lo = 0, hi = arr.length - k - 1;
+  	/* Why "- k"? Because when we do comparison we need to get
+    the hi ends of arr[mid + k], so we need to - k first to
+    prevent IndexOutOfBoundsException */
+    while (lo <= hi) {
+      	// Find the mid point
+        int mid = lo + (hi - lo) / 2;
+      	// Compare element of two ends to eliminate the loser
+        if (x - arr[mid] > arr[mid + k] - x) {
+            lo = mid + 1;	// eliminate range[lo, mid]
+        } else {
+            hi = mid - 1;	// eliminate range[mid, hi]
+        }
+    }
+    List<Integer> ans = new ArrayList<>();
+    for (int i = 0; i < k; i++) {
+        ans.add(arr[lo + i]);
+    }
+    return ans;
+}
+```
+
+Also, keep learning & testing Hexo for my blog/website!
+
+**Thoughts:** 💡💡💡💡💡
+
+**Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
