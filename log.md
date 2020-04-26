@@ -950,3 +950,17 @@ Also, keep learning & testing Hexo for my blog/website!
 **Thoughts:** 💡💡💡💡💡
 
 **Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
+
+### Day 057: April 26, 2020 SUN
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Chill day~! Just try out some Hexo theme & read how they design & structure their theme so I can design my own theme. Probably build on top of other people's design.
+
+**Thoughts:** What should I really write about for my blog? What should I name my blog...?🤔
+
+**Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
