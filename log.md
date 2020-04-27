@@ -964,3 +964,19 @@ Chill day~! Just try out some Hexo theme & read how they design & structure thei
 **Thoughts:** What should I really write about for my blog? What should I name my blog...?🤔
 
 **Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
+
+### Day 058: April 27, 2020 MON
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Start to have small tasks to do at work. Not really coding much instead I'm maintaining & developing some RA(需求分析) & SA(系統分析)! Which I kinda like it, and might be good at it coming from design background. Hopefully, I'll did well and impress them! 💪🏻
+
+Start to copy line by line from other Hexo theme to build my own Hexo blog site!! Very slowly though...!🤪
+
+**Thoughts:** What should I really write about for my blog? What should I name my blog...? 🤔 Still don't know......?!
+
+**Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
