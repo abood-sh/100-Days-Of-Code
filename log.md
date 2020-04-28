@@ -980,3 +980,17 @@ Start to copy line by line from other Hexo theme to build my own Hexo blog site!
 **Thoughts:** What should I really write about for my blog? What should I name my blog...? 🤔 Still don't know......?!
 
 **Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
+
+### Day 059: April 28, 2020 TUE
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Failed a simple SQL test at work..., three months without touching it, so pretty much understandable...! 🤦🏻‍♂️ So, refreshing my SQL skills all day at work...**(the Oracle SQL)**!!! More homework I guess!!!
+
+**Thoughts:** 🤓🤪
+
+**Link to work:** N/A
