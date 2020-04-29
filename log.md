@@ -994,3 +994,17 @@ Failed a simple SQL test at work..., three months without touching it, so pretty
 **Thoughts:** 🤓🤪
 
 **Link to work:** N/A
+
+### Day 060: April 29, 2020 WED
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Keep on try out the Hexo theme, still not sure what should I blog about? 🤔
+
+**Thoughts:** Start getting tired after work that makes me just wanna relax and do nothing...! Need to figure out some way to motivate myself to code more!!! or at least practice some more of what I studying at the day...!  
+
+**Link to work:** [my-hexo-blog](https://github.com/jacoblindev/my-hexo-blog)
