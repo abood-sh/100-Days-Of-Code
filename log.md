@@ -1022,3 +1022,17 @@ Learning Oracle SQL for work...! 😑
 **Thoughts:** 🤯  
 
 **Link to work:** N/A
+
+### Day 062: May 01, 2020 FRI
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL for work...! 😑 Not doing much because it's labour day!! So, got a three day long weekend. Just going to relax~!  
+
+**Thoughts:** Still thinking about set up a blog site to document my journey, but still in the research mode not yet motivated to really build it yet...! 🤔  
+
+**Link to work:** N/A
