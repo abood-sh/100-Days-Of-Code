@@ -1036,3 +1036,17 @@ Learning Oracle SQL for work...! 😑 Not doing much because it's labour day!! S
 **Thoughts:** Still thinking about set up a blog site to document my journey, but still in the research mode not yet motivated to really build it yet...! 🤔  
 
 **Link to work:** N/A
+
+### Day 063: May 02, 2020 SAT
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL for work...! 😑 Not doing much because it's a three day long weekend. Just going to relax~!  
+
+**Thoughts:** Still in the research mode not yet motivated to really build my blog yet...! 🤔  
+
+**Link to work:** N/A
