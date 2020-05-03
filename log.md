@@ -1050,3 +1050,17 @@ Learning Oracle SQL for work...! 😑 Not doing much because it's a three day lo
 **Thoughts:** Still in the research mode not yet motivated to really build my blog yet...! 🤔  
 
 **Link to work:** N/A
+
+### Day 064: May 03, 2020 SUN
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL for work...! 😑 Keep learning HEXO and testing some theme. Found a cool theme that is close to what I want, [Pure](https://blog.cofess.com/), I think I'll just use this one as a base and create my own theme to build my own blog/ website.
+
+**Thoughts:** Found a start point for my blog, need to study how to build out the theme I want! 🤔  
+
+**Link to work:** N/A
