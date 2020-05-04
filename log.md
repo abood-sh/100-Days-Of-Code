@@ -1064,3 +1064,17 @@ Learning Oracle SQL for work...! 😑 Keep learning HEXO and testing some theme.
 **Thoughts:** Found a start point for my blog, need to study how to build out the theme I want! 🤔  
 
 **Link to work:** N/A
+
+### Day 065: May 04, 2020 MON
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL for work...! 😑 Playing a little Android developer for the mobile app at work, so many modules and components, it's really confusing. 🤯
+
+**Thoughts:** Things at work start to pick up, currently I got a mobile app & a web-base system that I need to familiarize myself with. They will slowly handover to me to maintain & manage. Good to have some solid work to do.
+
+**Link to work:** N/A
