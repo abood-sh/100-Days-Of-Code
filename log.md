@@ -1078,3 +1078,17 @@ Learning Oracle SQL for work...! 😑 Playing a little Android developer for the
 **Thoughts:** Things at work start to pick up, currently I got a mobile app & a web-base system that I need to familiarize myself with. They will slowly handover to me to maintain & manage. Good to have some solid work to do.
 
 **Link to work:** N/A
+
+### Day 066: May 05, 2020 TUE
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL & Shell script for work...! 😑
+
+**Thoughts:** Did my first "Investment Assessment" for a company project, now I kinda know why developer get paid so much...! HAHA~!🤯 Now I got some motivation to push harder...! 👊🏼
+
+**Link to work:** N/A
