@@ -1092,3 +1092,18 @@ Learning Oracle SQL & Shell script for work...! 😑
 **Thoughts:** Did my first "Investment Assessment" for a company project, now I kinda know why developer get paid so much...! HAHA~!🤯 Now I got some motivation to push harder...! 👊🏼
 
 **Link to work:** N/A
+
+### Day 067: May 06, 2020 WED
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL & Shell script for work...! 😑
+Really don't have much time to code my own stuff...! Need to work out some new schedules for this challenge!!🤔
+
+**Thoughts:** My "Investment Assessment" got send back because I didn't understand all the details inside which they didn't properly introduce me to the whole project. I kinda have to poke around to find out bits of pieces, and try to put it together the whole picture...?! I guess that's the norm in this kinda big old company, I just have to actively seek out answers and involved myself in it!!! 加油～！
+
+**Link to work:** N/A
