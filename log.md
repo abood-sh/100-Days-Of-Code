@@ -1122,3 +1122,20 @@ Didn't do much actual coding tbh. Only learning, and busy thinking about work pr
 **Thoughts:** ...busy, busy, busy...!!!
 
 **Link to work:** N/A
+
+### Day 070: May 09, 2020 SAT
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Shell script for work...! It's kinda interesting~! Feel like I'm a hacker!! HAHA🤪
+
+**Thoughts:** Not doing much project base programming, mostly just learning. Need to really start some project or finished the previous project...! One more month to go with this challenge. Hopefully, I can finished my blog design and get it online!!! 🤞🏼
+
+Should I set a goals section in this log's category? So I can document progress? Maybe next round!!!
+Use "Scrum" or "Kanban" approach to document my progress?🤔
+
+**Link to work:** N/A
