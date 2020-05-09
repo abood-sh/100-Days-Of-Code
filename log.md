@@ -1107,3 +1107,18 @@ Really don't have much time to code my own stuff...! Need to work out some new s
 **Thoughts:** My "Investment Assessment" got send back because I didn't understand all the details inside which they didn't properly introduce me to the whole project. I kinda have to poke around to find out bits of pieces, and try to put it together the whole picture...?! I guess that's the norm in this kinda big old company, I just have to actively seek out answers and involved myself in it!!! 加油～！
 
 **Link to work:** N/A
+
+### Day 068-069: May 07-08, 2020 THU-FRI
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Oracle SQL & Shell script for work...! 😑
+Didn't do much actual coding tbh. Only learning, and busy thinking about work projects. Currently, there's two projects that I will be involved, and both of them need some serious makeover...! HAHA!😅 Need to rethink their business logic, they are not perform well as they should be. Not sure how much power I got to improve them but I'll try my best to get involved and give them my input!! 加油～！
+
+**Thoughts:** ...busy, busy, busy...!!!
+
+**Link to work:** N/A
