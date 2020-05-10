@@ -1139,3 +1139,17 @@ Should I set a goals section in this log's category? So I can document progress?
 Use "Scrum" or "Kanban" approach to document my progress?🤔
 
 **Link to work:** N/A
+
+### Day 071: May 10, 2020 SUN
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Shell script for work...! Try to go through some HEXO themes to learn how it work, but too hot to focus today so not much progress...!
+
+**Thoughts:** 🥵
+
+**Link to work:** N/A
