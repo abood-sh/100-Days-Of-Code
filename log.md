@@ -1153,3 +1153,17 @@ Learning Shell script for work...! Try to go through some HEXO themes to learn h
 **Thoughts:** 🥵
 
 **Link to work:** N/A
+
+### Day 072: May 11, 2020 MON
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (36)
+
+Learning Shell script for work...!
+
+**Thoughts:** 🥵
+
+**Link to work:** N/A
