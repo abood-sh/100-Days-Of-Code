@@ -1167,3 +1167,27 @@ Learning Shell script for work...!
 **Thoughts:** 🥵
 
 **Link to work:** N/A
+
+### Day 073: May 12, 2020 TUE
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 3 (39)
+
+- Grasshopper - Summation
+- Your order, please
+- Stop gninnipS My sdroW!
+
+```Javascript
+function spinWords(str){
+  return str.split(' ').map(e => e.length >= 5 ? e.split('').reverse().join('') : e).join(' ');
+}
+```
+
+Learning Shell script for work...! Did some simple Kata today to refresh my JS skill. HAHA~! Still got it!!😜
+
+**Thoughts:** New challenge at work......, I'm kinda doing PM at the moment?! Interesting!!! Something new to learn!🤔😬
+
+**Link to work:** N/A
