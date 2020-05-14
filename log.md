@@ -1191,3 +1191,26 @@ Learning Shell script for work...! Did some simple Kata today to refresh my JS s
 **Thoughts:** New challenge at work......, I'm kinda doing PM at the moment?! Interesting!!! Something new to learn!🤔😬
 
 **Link to work:** N/A
+
+### Day 074-075: May 13-14, 2020 WED-THU
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 1 (40)
+
+- Get the Middle Character
+
+```Javascript
+function getMiddle(s) {
+  const mid = Math.floor(s.length / 2);
+  return s.length % 2 == 0 ? s.slice(mid - 1, mid + 1) : s.slice(mid, mid + 1 );
+}
+```
+
+Learning Shell script for work...! Did some simple Kata today to refresh my JS skill. 😜
+
+**Thoughts:** Keep learning project management stuff!! 🤔😬
+
+**Link to work:** N/A
