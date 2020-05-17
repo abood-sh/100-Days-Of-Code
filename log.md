@@ -1214,3 +1214,17 @@ Learning Shell script for work...! Did some simple Kata today to refresh my JS s
 **Thoughts:** Keep learning project management stuff!! 🤔😬
 
 **Link to work:** N/A
+
+### Day 076-078: May 15-17, 2020 FRI-SUN
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (40)
+
+Learning Shell script for work...! Chill weekend!! Try to research on Project Management methodology so that I can do a better job as PM! 💪🏻
+
+**Thoughts:** Keep learning project management stuff!! 🤔😬
+
+**Link to work:** N/A
