@@ -1228,3 +1228,17 @@ Learning Shell script for work...! Chill weekend!! Try to research on Project Ma
 **Thoughts:** Keep learning project management stuff!! 🤔😬
 
 **Link to work:** N/A
+
+### Day 079-080: May 18-19, 2020 MON-TUE
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (40)
+
+Learning Shell script for work...! Also, start checking out Flutter! See if I can make a mobile app!!!
+
+**Thoughts:** Keep learning project management stuff!! 🤔😬
+
+**Link to work:** N/A
