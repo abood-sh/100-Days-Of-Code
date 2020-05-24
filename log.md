@@ -1242,3 +1242,17 @@ Learning Shell script for work...! Also, start checking out Flutter! See if I ca
 **Thoughts:** Keep learning project management stuff!! 🤔😬
 
 **Link to work:** N/A
+
+### Day 081-085: May 20-24, 2020 WED-SUN
+
+**Today's Progress:**
+
+Problems solved on [Hackerrank](https://www.hackerrank.com/jacoblindev): 0 (110)
+
+Problems solved on [Codewars](https://www.codewars.com/users/jacoblindev): 0 (40)
+
+Keep learning Shell script for work...! Lately I've been mostly just in learning mode, not really coding much. I did practice Shell Script in terminal and because I'm learning Flutter I also set up the env.(Android Studio) for it. It's only 15 days left, so I guess I'll just keep on learning all the stuff I'm interested. And maybe think about some project ideas for my second round #100DaysOfCode challenge, I really need to do some deeper practice of coding.🤔🤞🏼
+
+**Thoughts:** I should probably use some of the PM knowledge I learned and apply it into manage my own side projects...?!🤔💪🏻
+
+**Link to work:** N/A
